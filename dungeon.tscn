@@ -49,7 +49,7 @@ items = [ "magic_orb", "wood", "stone_brick", "small_healing_potion", "small_hea
 position = Vector2( 539, 268 )
 size = 10
 inventory_name = "Random Cool Chest"
-items = [ "chestplate", "crystal", "gold_coin", "helmet", "iron_sword", "magic_orb", "shield", "stone_brick", "tshirt", "wooden_sword" ]
+items = [ "crystal", "crystal", "gold_coin", "stone_brick", "crystal", "magic_orb", "shield", "stone_brick", "stone_brick", "wooden_sword" ]
 number_of_items = 10
 
 [node name="treasure_chest" parent="Walls" instance=ExtResource( 6 )]
