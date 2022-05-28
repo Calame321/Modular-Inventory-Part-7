@@ -2,4 +2,4 @@
 
 Part 7 of the inventory tutorial series.
 Fix & Improvements.
-Video: ??
+Video: https://youtu.be/OPVYDesObXw
